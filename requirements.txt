@@ -1,0 +1,5 @@
+boto3==1.28.62
+jsonschema==4.19.1
+PyJWT==2.8.0
+redis==5.0.1
+aws-lambda-powertools==2.25.0
